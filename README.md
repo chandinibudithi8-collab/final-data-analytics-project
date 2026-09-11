@@ -1,6 +1,5 @@
-#Olist E-Commerce Sales & Order Performance Analysis
-
- ##1. Project Overview
+# Olist E-Commerce Sales & Order Performance Analysis
+## 1. Project Overview
 This project focuses on analyzing the Olist Brazilian E-Commerce Public Dataset to understand e-commerce sales performance, customer orders, product categories, payment methods, order status, and delivery-related information.
 The project combines Python-based data analysis and visualization with an interactive Power BI dashboard to identify important business insights and provide data-driven recommendations.
 
